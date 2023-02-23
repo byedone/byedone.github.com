@@ -80,3 +80,9 @@ body {
     margin-top: 7rem;
   }
 }
+
+
+.bd-placeholder-img {
+  text-align: center;
+  object-fit: cover;
+}
